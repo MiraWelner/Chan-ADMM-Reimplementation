@@ -1,5 +1,5 @@
 # About
-In 2023 I took a course taught by Professor Qi Guo at Purdue University in machine learning and statistics. The final project was to reimplment a seminal machine learning publication. I elected to re-implement the paper <i>Plug and Play ADMM for Image Restoration</i> by Dr. Stanley Chan. My work earned me a 	
+In 2023 I took a graduate level course taught by Professor Qi Guo at Purdue University in machine learning and statistics. The final project was to reimplment a seminal machine learning publication. I elected to re-implement the paper <i>Plug and Play ADMM for Image Restoration</i> by Dr. Stanley Chan. My work earned me a 	
 86.0 / 84.0 on the final project and an A in the class. This GitHub Repository is my work on this final project as well as the paper.
 
 
