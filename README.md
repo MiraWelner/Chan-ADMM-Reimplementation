@@ -1,10 +1,10 @@
 # About
-In 2023 I took a graduate level course taught by Professor Qi Guo at Purdue University in machine learning and statistics. The final project was to reimplment a seminal machine learning publication. I elected to re-implement the paper <i>Plug and Play ADMM for Image Restoration</i> by Dr. Stanley Chan. My work earned me a 	
-86.0 / 84.0 on the final project and an A in the class. This GitHub Repository is my work on this final project as well as the paper.
+In 2023, I enrolled in a graduate-level course on machine learning and statistics taught by Professor Qi Guo at Purdue University. The course required us to undertake a final project that involved re-implementing a seminal machine learning publication. I chose to focus on the paper titled "Plug and Play ADMM for Image Restoration," authored by Dr. Stanley Chan.
 
+My efforts in this project resulted in a grade of 86.0/84.0 for the final project and an overall A in the class. I have compiled my work on this final project, along with the paper, in this GitHub repository.
 
 # Differences with original code base
-Since this is a re-implmentation of a very well documented project, there is an existing codebase for the original project [here:](https://www.mathworks.com/matlabcentral/fileexchange/60641-plug-and-play-admm-for-image-restoration). This github does three things differently than this original codebase:
+Since this is a re-implmentation of a very well documented project, there is an existing codebase for the original project [here](https://www.mathworks.com/matlabcentral/fileexchange/60641-plug-and-play-admm-for-image-restoration). This github does three things differently than this original codebase:
 <ol>
 <li> That codebase is in MatLab while this one is in Python3
 <li> The parameters are a bit different - not better or worse but it's a re-implmementation in a different language so the values are different
